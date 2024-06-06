@@ -1,0 +1,15 @@
+{
+	"birth_date":"02.02.2002",
+	"measures":{
+		"weeks": 7,
+		"years":365,
+		"months":30,
+		"dog days":0.25
+	},
+	"displays":{
+		"char_per_line":50,
+		"char_lived":"x",
+		"char_to_live":"o",
+		"motion_over_time":14
+	}
+}
